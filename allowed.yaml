@@ -1,0 +1,6 @@
+
+regex:
+  - ^/robots\.txt$
+  - ^/ads\.txt$
+  - ^/sitemap\.xml
+  - ^/sitemap_index.xml
